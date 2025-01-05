@@ -1,0 +1,19 @@
+h2{
+    font-size: 30px;
+    text-decoration: overline solid tomato;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.second{
+/* display: none; */
+}
+.head{
+    font-size: 50px;
+    text-align: center;
+    height: 400px;
+    color: red;
+    background-color: aqua;
+    background-image: url("download.jpg");
+    /* background-repeat: repeat-x; */
+    background-size: contain;
+}
